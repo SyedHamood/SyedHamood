@@ -2,8 +2,9 @@
 - 👀 I’m interested in Arificial Intelligence
 - 🌱 I’m currently learning Data Sciences
 - 📫 How to reach me:
+- 
   <a href="https://www.instagram.com/syed___hamood/">
-    <img src="https://c0.klipartz.com/pngpicture/16/46/gratis-png-hecho-en-kings-heath-instagram-facebook-hembra-instagram-logo-instagram-icon-thumbnail.png" alt="Instagram" style="width: 20px; height: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram" style="width: 50px; height: 50px; align:center">
   </a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can solve a Rubik's Cube under 20 seconds
